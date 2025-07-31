@@ -1,4 +1,4 @@
-📦 PackagePal – Visual Pip Package Manager
+📦 ##PackagePal – Visual Pip Package Manager
 PackagePal is a simple and interactive web app built with Streamlit that helps you:
 
 ✅ View all your installed Python packages
