@@ -6,7 +6,9 @@ PackagePal is a simple and interactive web app built with Streamlit that helps y
 🗑 Select and uninstall packages with one click
 🚀 No command-line hassle – it's all visual!
 
+<img width="1366" height="634" alt="image" src="https://github.com/user-attachments/assets/267119c5-918d-48ce-b66e-4b2715e74cc5" />
 
+<img width="1366" height="634" alt="image" src="https://github.com/user-attachments/assets/b051c791-4356-4521-8c3d-8ce918f1905f" />
 
 🧰 Features
 📋 List all installed packages (pip list)
