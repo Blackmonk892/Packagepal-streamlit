@@ -1,4 +1,5 @@
- ##PackagePal – Visual Pip Package Manager
+**PackagePal** – Visual Pip Package Manager
+
 PackagePal is a simple and interactive web app built with Streamlit that helps you:
 
 ✅ View all your installed Python packages
@@ -10,7 +11,8 @@ PackagePal is a simple and interactive web app built with Streamlit that helps y
 
 <img width="1366" height="634" alt="image" src="https://github.com/user-attachments/assets/b051c791-4356-4521-8c3d-8ce918f1905f" />
 
-🧰 Features
+**🧰 Features**
+
 📋 List all installed packages (pip list)
 
 📊 Visualize package size distribution
@@ -21,7 +23,8 @@ PackagePal is a simple and interactive web app built with Streamlit that helps y
 
 🔎 Search/filter packages
 
-🖥️ How It Works
+**🖥️ How It Works**
+
 📍 Local Mode (Recommended)
 On your machine, the app:
 
@@ -30,10 +33,12 @@ Uses pip list to read installed packages
 Uses pip uninstall to remove selected packages
 
 
-✅ To use full functionality:
+**✅ To use full functionality:**
+
 Run the app locally on your own machine.
 
-💡 Future Ideas
+**💡 Future Ideas**
+
  Show package size from PyPI or disk
 
  Display outdated packages
